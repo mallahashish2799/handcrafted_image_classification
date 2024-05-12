@@ -1,0 +1,9 @@
+#python version 3.11.7
+
+tensorflow==2.15.0
+Flask
+opencv-python
+scikit-learn
+seaborn
+tqdm
+efficientnet
